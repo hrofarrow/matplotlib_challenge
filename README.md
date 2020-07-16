@@ -1,5 +1,6 @@
 # matplotlib_challenge
 Analyzing Mouse Pharmaceutical Data
+
 Before beginning the analysis, check the data for any mouse ID with duplicate time points and remove any data associated with that mouse ID.
 
 
